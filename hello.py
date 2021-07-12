@@ -1,1 +1,5 @@
-print("Hello")
+def SayHello():
+    print("Hello")
+
+
+SayHello()
